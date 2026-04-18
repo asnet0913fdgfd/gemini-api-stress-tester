@@ -1,4 +1,3 @@
-```markdown
 # Gemini API Stress Tester
 
 **Tools and scripts for stress testing Gemini APIs, measuring throughput, response quality, and failure behavior at scale.**
@@ -36,7 +35,6 @@ Perfect for developers, researchers, and teams who want to understand the practi
 
 ## 📁 Project Structure
 
-```
 gemini-api-stress-tester/
 ├── gemini_stress_test.py     # Main stress tester script
 ├── config.json               # API key configuration
